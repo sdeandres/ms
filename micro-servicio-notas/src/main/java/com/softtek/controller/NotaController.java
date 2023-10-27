@@ -18,6 +18,7 @@ public class NotaController {
 	// http://localhost:8002/crear/2/asignatura/ingles/calificacion/7.5
 	@GetMapping("/crear/{id}/asignatura/{asignatura}/calificacion/{calificacion}")
 	public Nota crearNota(@PathVariable Long id, @PathVariable String asignatura, @PathVariable double calificacion) {
+		System.out.println("http://localhost:8002/crear/2/asignatura/ingles/calificacion/7.5");
 		return service.crearNota(id, asignatura, calificacion);
 	}
 }
