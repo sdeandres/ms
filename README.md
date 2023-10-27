@@ -1,9 +1,7 @@
-# Project Title
-
-OpenTrainig Java Avanzado
+# OpenTrainig Java Avanzado
+Curtso de Java Avanzado
 
 ## Varios proyectos
-
 Mcroservicios
 
 - servicio-alumnos
