@@ -1,5 +1,5 @@
 # OpenTrainig Java Avanzado
-Curtso de Java Avanzado
+Curso de Java Avanzado octubre 2023
 
 ## Varios proyectos
 Mcroservicios
